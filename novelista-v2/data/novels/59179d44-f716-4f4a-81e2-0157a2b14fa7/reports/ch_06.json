@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Kael moved through the labyrinth of sewage tunnels, boots clicking on asphalt slicker than a fresh corpse.",
+      "line": 3,
+      "message": "Phrase 'boots clicking on asphalt' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Kael moved through the labyrinth of sewage tunnels, boots clicking on asphalt slicker than a fresh corpse.",
+      "line": 3,
+      "message": "Phrase 'clicking on asphalt slicker' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Kael moved through the labyrinth of sewage tunnels, boots clicking on asphalt slicker than a fresh corpse.",
+      "line": 3,
+      "message": "Phrase 'on asphalt slicker than' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Kael moved through the labyrinth of sewage tunnels, boots clicking on asphalt slicker than a fresh corpse.",
+      "line": 3,
+      "message": "Phrase 'asphalt slicker than a' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Kael moved through the labyrinth of sewage tunnels, boots clicking on asphalt slicker than a fresh corpse.",
+      "line": 3,
+      "message": "Phrase 'slicker than a fresh' also appears in an earlier chapter"
+    }
+  ],
+  "error_count": 0,
+  "warning_count": 5,
+  "metrics": {
+    "word_count": 2030,
+    "sentence_count": 188,
+    "paragraph_count": 52,
+    "tier1_count": 0,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.148,
+    "triad_count": 2,
+    "transition_opener_ratio": 0.016,
+    "sentence_len_cv": 0.642,
+    "paragraph_len_cv": 0.473,
+    "dialogue_lines": 7,
+    "adverb_tag_ratio": 0.0,
+    "tells_per_1000": 2.46
+  }
+}

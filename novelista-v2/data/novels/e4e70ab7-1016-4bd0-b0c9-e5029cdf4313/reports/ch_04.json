@@ -1,0 +1,92 @@
+{
+  "findings": [
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "\"God is the prisoner. We are the rock.",
+      "line": 11,
+      "message": "Phrase 'prisoner we are the rock' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "His voice looped in my head, a broken record screaming *Link up*.",
+      "line": 33,
+      "message": "Phrase 'a broken record screaming link' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "His voice looped in my head, a broken record screaming *Link up*.",
+      "line": 33,
+      "message": "Phrase 'broken record screaming link up' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "He wanted to finish his sentence, to be remembered as a person.",
+      "line": 33,
+      "message": "Phrase 'wanted to finish his sentence' also appears in an earlier chapter"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "He wanted to finish his sentence, to be remembered as a person. If I broke the gate, would",
+      "line": 33,
+      "message": "Copied text, repeated verbatim: 'He wanted to finish his sentence, to be remembered as a person. If I broke the gate, would'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "a broken record screaming *Link up*. He wanted to finish his sentence, to be remembered as",
+      "line": 33,
+      "message": "Copied text, repeated verbatim: 'a broken record screaming *Link up*. He wanted to finish his sentence, to be remembered as'"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "I looked at the sealed door behind her.",
+      "line": 37,
+      "message": "Phrase 'looked at the sealed door' also appears in an earlier chapter"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "The light above pulsed brighter, warning signal that no one understood yet flaring into wh",
+      "line": 49,
+      "message": "Copied text, repeated verbatim: 'The light above pulsed brighter, warning signal that no one understood yet flaring into wh'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "But Brother-7's voice was still there, looping in my head like a broken record screaming *",
+      "line": 55,
+      "message": "Copied text, repeated verbatim: 'But Brother-7's voice was still there, looping in my head like a broken record screaming *'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "the cold burn in my palm where the glass shard had been days ago, fused into my skin by so",
+      "line": 71,
+      "message": "Copied text, repeated verbatim: 'the cold burn in my palm where the glass shard had been days ago, fused into my skin by so'"
+    }
+  ],
+  "error_count": 5,
+  "warning_count": 5,
+  "metrics": {
+    "word_count": 1630,
+    "sentence_count": 166,
+    "paragraph_count": 38,
+    "tier1_count": 0,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.092,
+    "triad_count": 3,
+    "transition_opener_ratio": 0.024,
+    "sentence_len_cv": 0.695,
+    "paragraph_len_cv": 0.485,
+    "dialogue_lines": 17,
+    "adverb_tag_ratio": 0.118,
+    "felt_per_1000": 1.84,
+    "tells_per_1000": 6.13
+  }
+}

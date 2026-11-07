@@ -1,0 +1,77 @@
+{
+  "findings": [
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The rain hammered against the black glass of the Spire's Core Chamber, a rhythmic punctuation mark to the screaming servers that lined the walls.",
+      "line": 3,
+      "message": "Phrase 'the rain hammered against' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The rain hammered against the black glass of the Spire's Core Chamber, a rhythmic punctuation mark to the screaming servers that lined the walls.",
+      "line": 3,
+      "message": "Phrase 'rain hammered against the' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The rain hammered against the black glass of the Spire's Core Chamber, a rhythmic punctuation mark to the screaming servers that lined the walls.",
+      "line": 3,
+      "message": "Phrase 'of the spire s' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The rain hammered against the black glass of the Spire's Core Chamber, a rhythmic punctuation mark to the screaming servers that lined the walls.",
+      "line": 3,
+      "message": "Phrase 'the spire s core' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The rain hammered against the black glass of the Spire's Core Chamber, a rhythmic punctuation mark to the screaming servers that lined the walls.",
+      "line": 3,
+      "message": "Phrase 'that lined the walls' also appears in an earlier chapter"
+    },
+    {
+      "rule": "tier1",
+      "severity": "error",
+      "quote": "Kael stood up slowly, his legs giving way under the weight of the Synaptic Burn.",
+      "line": 21,
+      "message": "Banned word/phrase: 'the weight of the'"
+    },
+    {
+      "rule": "triads",
+      "severity": "warning",
+      "quote": "A machine fed on data, energy, and human experienc | \"And Kael,\" Johnson's voice echoed from the shadow | Outside, the wind picked up again, swirling dust a",
+      "line": 21,
+      "message": "4 triadic lists (max 3)"
+    },
+    {
+      "rule": "tier1",
+      "severity": "error",
+      "quote": "He felt the weight of the debt pressing down on him, heavier than the cyber-arm strapped to his side.",
+      "line": 31,
+      "message": "Banned word/phrase: 'the weight of the'"
+    }
+  ],
+  "error_count": 2,
+  "warning_count": 6,
+  "metrics": {
+    "word_count": 1460,
+    "sentence_count": 128,
+    "paragraph_count": 35,
+    "tier1_count": 2,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.103,
+    "triad_count": 4,
+    "transition_opener_ratio": 0.016,
+    "sentence_len_cv": 0.641,
+    "paragraph_len_cv": 0.534,
+    "dialogue_lines": 11,
+    "adverb_tag_ratio": 0.182,
+    "tells_per_1000": 5.48
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "findings": [
+    {
+      "rule": "word_count",
+      "severity": "warning",
+      "quote": "",
+      "line": 1,
+      "message": "1185 words vs target 2000 (band 0.6x-1.6x)"
+    }
+  ],
+  "error_count": 0,
+  "warning_count": 1,
+  "metrics": {
+    "word_count": 1185,
+    "sentence_count": 28,
+    "paragraph_count": 4,
+    "tier1_count": 0,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.253,
+    "triad_count": 0,
+    "transition_opener_ratio": 0.0,
+    "sentence_len_cv": 2.939,
+    "paragraph_len_cv": 0.875,
+    "paragraph_count_unique": 3,
+    "unique_paragraph_ratio": 1.0,
+    "dialogue_lines": 0,
+    "adverb_tag_ratio": 0.0,
+    "felt_per_1000": 0.0,
+    "tells_per_1000": 0.84
+  }
+}

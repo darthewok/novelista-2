@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "rule": "felt_density",
+      "severity": "warning",
+      "quote": "My skin felt chalky under my fingernails.",
+      "line": 3,
+      "message": "'felt' used 9 times, 7.43 per 1000 words (max 4)"
+    },
+    {
+      "rule": "tier1",
+      "severity": "error",
+      "quote": "My arm trembled slightly, the weight of it felt heavy, like carrying a dead brother's body on my back.",
+      "line": 35,
+      "message": "Banned word/phrase: 'the weight of it'"
+    }
+  ],
+  "error_count": 1,
+  "warning_count": 1,
+  "metrics": {
+    "word_count": 1211,
+    "sentence_count": 123,
+    "paragraph_count": 33,
+    "tier1_count": 1,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.0,
+    "triad_count": 2,
+    "transition_opener_ratio": 0.0,
+    "sentence_len_cv": 0.629,
+    "paragraph_len_cv": 0.441,
+    "dialogue_lines": 4,
+    "adverb_tag_ratio": 0.25,
+    "felt_per_1000": 7.43,
+    "tells_per_1000": 1.65
+  }
+}

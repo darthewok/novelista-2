@@ -1,0 +1,120 @@
+{
+  "findings": [
+    {
+      "rule": "felt_density",
+      "severity": "warning",
+      "quote": "My lead armor hummed against my ribs, a low vibration that matched the floor's thrum but felt heavier, colder.",
+      "line": 5,
+      "message": "'felt' used 10 times, 4.98 per 1000 words (max 4)"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "*Blessing is labor, glory is pain.",
+      "line": 19,
+      "message": "Phrase 'blessing is labor glory is' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "*Blessing is labor, glory is pain.",
+      "line": 19,
+      "message": "Phrase 'is labor glory is pain' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The workers' faces were chalk-drawn masks in the dim light, their eyes reflecting the sterile glare of the porcelain sky above.",
+      "line": 21,
+      "message": "Phrase 'glare of the porcelain sky' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The workers' faces were chalk-drawn masks in the dim light, their eyes reflecting the sterile glare of the porcelain sky above.",
+      "line": 21,
+      "message": "Phrase 'of the porcelain sky above' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Her hammer hung suspended in mid-air for a fraction of a second before she corrected it, her face twisting into something that looked like pain but felt nothin",
+      "line": 23,
+      "message": "Phrase 'hung suspended in mid air' also appears in an earlier chapter"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "their voices a wall of sound that pushed Sister-12 further away from the physical world un",
+      "line": 37,
+      "message": "Copied text, repeated verbatim: 'their voices a wall of sound that pushed Sister-12 further away from the physical world un'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "until she became nothing but a whisper in the dark. I felt the hammer in my hand tighten,",
+      "line": 37,
+      "message": "Copied text, repeated verbatim: 'until she became nothing but a whisper in the dark. I felt the hammer in my hand tighten,'"
+    },
+    {
+      "rule": "negation_contrast",
+      "severity": "warning",
+      "quote": "I wasn't Sister-4 anymore. That identity had been scrubbed during the last cycle. I was just Lynette, a survivor in a world that only recognized numbers.",
+      "line": 41,
+      "message": "3 'He did not X. He Y.' openers (max 1)"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "Grace flows where labor bends,* he said. *And you are bending now.* He knew I was trying",
+      "line": 45,
+      "message": "Copied text, repeated verbatim: 'Grace flows where labor bends,* he said. *And you are bending now.* He knew I was trying'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "second. The light above pulsed brighter, a warning signal that no one understood yet. But",
+      "line": 49,
+      "message": "Copied text, repeated verbatim: 'second. The light above pulsed brighter, a warning signal that no one understood yet. But'"
+    },
+    {
+      "rule": "exemplar_copy",
+      "severity": "error",
+      "quote": "sharp enough to cut your tongue when you swallowed it. *Sister-9 dissolved without answer.",
+      "line": 63,
+      "message": "Copied from the voice exemplar: 'sharp enough to cut your tongue when you swallowed it. *Sister-9 dissolved without answer.'"
+    },
+    {
+      "rule": "exemplar_copy",
+      "severity": "error",
+      "quote": "sharp enough to cut your tongue when you swallowed it. *Sister-9 dissolved without answer.",
+      "line": 63,
+      "message": "Copied from the voice exemplar: 'sharp enough to cut your tongue when you swallowed it. *Sister-9 dissolved without answer.'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "its voice calm but sharp enough to cut your tongue when you swallowed it. *Sister-9 dissol",
+      "line": 63,
+      "message": "Copied text, repeated verbatim: 'its voice calm but sharp enough to cut your tongue when you swallowed it. *Sister-9 dissol'"
+    }
+  ],
+  "error_count": 7,
+  "warning_count": 7,
+  "metrics": {
+    "word_count": 2009,
+    "sentence_count": 181,
+    "paragraph_count": 47,
+    "tier1_count": 0,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.0,
+    "triad_count": 1,
+    "transition_opener_ratio": 0.0,
+    "sentence_len_cv": 0.705,
+    "paragraph_len_cv": 0.435,
+    "dialogue_lines": 0,
+    "adverb_tag_ratio": 0.0,
+    "felt_per_1000": 4.98,
+    "tells_per_1000": 6.97
+  }
+}

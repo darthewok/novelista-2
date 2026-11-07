@@ -12,3 +12,8 @@ node_modules/
 novelista/backend/data/
 novelista/.run/
 .env
+# novelista-v2 runtime
+novelista-v2/.run/
+novelista-v2/data/settings.json
+novelista-v2/backend/.venv/
+novelista-v2/frontend/node_modules/

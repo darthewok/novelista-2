@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "rule": "tier1",
+      "severity": "error",
+      "quote": "The weight of it pressed down on him, heavier than the cyber-arm strapped to his side.",
+      "line": 25,
+      "message": "Banned word/phrase: 'The weight of it'"
+    },
+    {
+      "rule": "tier1",
+      "severity": "error",
+      "quote": "Kael stared at him, the weight of the decision pressing down on his chest like a vice.",
+      "line": 59,
+      "message": "Banned word/phrase: 'the weight of the'"
+    }
+  ],
+  "error_count": 2,
+  "warning_count": 0,
+  "metrics": {
+    "word_count": 2666,
+    "sentence_count": 268,
+    "paragraph_count": 65,
+    "tier1_count": 2,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.338,
+    "triad_count": 3,
+    "transition_opener_ratio": 0.019,
+    "sentence_len_cv": 0.674,
+    "paragraph_len_cv": 0.477,
+    "dialogue_lines": 22,
+    "adverb_tag_ratio": 0.182,
+    "tells_per_1000": 0.75
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "rule": "triads",
+      "severity": "warning",
+      "quote": "A mile of storm tunnel under the Loop, ribbed and  | The light came on, flat white, and it showed a man | A pause, small and wet.",
+      "line": 17,
+      "message": "6 triadic lists (max 3)"
+    },
+    {
+      "rule": "negation_contrast",
+      "severity": "warning",
+      "quote": "It didn't flicker. It stopped, the way a thing stops when the last of its cell is drawn, and the tunnel went black from wall to wall.",
+      "line": 33,
+      "message": "4 'He did not X. He Y.' openers (max 1)"
+    },
+    {
+      "rule": "exemplar_copy",
+      "severity": "error",
+      "quote": "scrubbed the smell out years ago, along with whatever used to cause it. The cooling presse",
+      "line": 55,
+      "message": "Copied from the voice exemplar: 'scrubbed the smell out years ago, along with whatever used to cause it. The cooling presse'"
+    },
+    {
+      "rule": "exemplar_copy",
+      "severity": "error",
+      "quote": "Clean side. Pretty side. The part that says please.\" It trembled on the left of the cut.",
+      "line": 89,
+      "message": "Copied from the voice exemplar: 'Clean side. Pretty side. The part that says please.\" It trembled on the left of the cut.'"
+    },
+    {
+      "rule": "exemplar_copy",
+      "severity": "error",
+      "quote": "and opened the place where the loud part lives. The Scream did not ask. It does not ask.",
+      "line": 97,
+      "message": "Copied from the voice exemplar: 'and opened the place where the loud part lives. The Scream did not ask. It does not ask.'"
+    },
+    {
+      "rule": "exemplar_copy",
+      "severity": "error",
+      "quote": "a drone dropped three feet and caught itself. The racks flickered once down the whole leng",
+      "line": 103,
+      "message": "Copied from the voice exemplar: 'a drone dropped three feet and caught itself. The racks flickered once down the whole leng'"
+    }
+  ],
+  "error_count": 4,
+  "warning_count": 2,
+  "metrics": {
+    "word_count": 2135,
+    "sentence_count": 212,
+    "paragraph_count": 61,
+    "tier1_count": 0,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.07,
+    "triad_count": 6,
+    "transition_opener_ratio": 0.014,
+    "sentence_len_cv": 1.049,
+    "paragraph_len_cv": 1.031,
+    "paragraph_count_unique": 59,
+    "unique_paragraph_ratio": 1.0,
+    "dialogue_lines": 17,
+    "adverb_tag_ratio": 0.0,
+    "felt_per_1000": 0.47,
+    "tells_per_1000": 2.81
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "e4e70ab7-1016-4bd0-b0c9-e5029cdf4313",
+  "title": "The White Forge",
+  "status": "draft",
+  "audience": "adult",
+  "book_type": "novel",
+  "chapter_count": 6,
+  "target_words": 12000,
+  "pov": "first_person",
+  "writing_style": "visceral",
+  "idea": "Industrial-afterlife cyberpunk novel based on the Data Riot album The White Forge. A newly dead woman wakes not to gold streets but to a sterile glare and a factory floor; someone tosses a hammer through the open door. This is the White Forge, a celestial foundry under porcelain skies where the prayers of the dead are melted into liquid grace and cast into iron chain links. The chain has one purpose: to bind a god. Eleven trillion links to go. Above the workers stand the Overseer, a thousand eyes that never blink, for whom performance metrics are the only grace, and the unseen Master or Architect, the silent King, whose angels have wings of crystal and eyes of glass. Brothers on the left, sisters on the right, the workers chant: blessing is labor and glory is pain; God is the prisoner, we are the rock. The narrator remembers her childhood prayers and forges them into an iron prayer of her own. A brother breaks under quota and is recycled: you are data, you are fuel. The narrator hardens into calcified willpower, becomes the armor, becomes the lead, and begins to wonder who is the guest and who is the host, whether the system is chance or design. At shift-point zero the gate locks and the workers forge their own fate. Recurring motifs: liquid grace, solid iron; recycle the spirit, recycle the soul; shift-point zero, lock the gate; one planet bound, one god restrained; the first link is set. Tone: hymnal, heavy, call-and-response, grief and rage under a relentless work rhythm, with the narrator's Caribbean cadence in her speech. Theme: faith turned into industrial production, the soul as raw material, and whether any resistance can outlast the cycle.",
+  "created_at": "2026-11-07T15:53:51.545639Z",
+  "updated_at": "2026-11-07T16:15:02.331231Z",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Glare and the Hollow Weight",
+      "status": "drafted",
+      "word_count": 1236,
+      "version": 0,
+      "tells": 2
+    },
+    {
+      "number": 2,
+      "title": "The Liquid Prayer and the Broken Sister",
+      "status": "drafted",
+      "word_count": 1559,
+      "version": 0,
+      "tells": 15
+    },
+    {
+      "number": 3,
+      "title": "The Master's Song and the Calculated Lie",
+      "status": "drafted",
+      "word_count": 2069,
+      "version": 1,
+      "tells": 14
+    },
+    {
+      "number": 4,
+      "title": "The Ghost in the Machine and the Final Count",
+      "status": "drafted",
+      "word_count": 1657,
+      "version": 0,
+      "tells": 10
+    },
+    {
+      "number": 5,
+      "title": "The Calcified Will and the Unseen Floor",
+      "status": "drafted",
+      "word_count": 1186,
+      "version": 1,
+      "tells": 1
+    },
+    {
+      "number": 6,
+      "title": "The Final Link and the Silence That Follows",
+      "status": "drafted",
+      "word_count": 1583,
+      "version": 0,
+      "tells": 12
+    }
+  ]
+}

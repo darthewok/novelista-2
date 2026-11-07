@@ -1,0 +1,65 @@
+# WORLD BUILDING REFERENCE: THE WHITE FORGE
+
+## Premise
+The White Forge is not a planet in the traditional sense; it is a celestial foundry suspended above the corpse of a dead Earth, or perhaps the only remaining fragment of one. It exists under "porcelain skies"—a sterile, humming glare that mimics sunlight but lacks warmth, delivering UV radiation that hardens skin into chalk-drawn armor and keeps blood thick as molasses. Here, death is not an end but a processing stage. The dead do not rest; they are fed to the forges by their grieving survivors, who chew on raw spirits and swallow them whole in "spirit meals." These spirits melt into **Liquid Grace**, a viscous, silver fluid that coats everything it touches, dripping from the porcelain vaults like tears or mercury.
+
+The Forge's economy is built entirely on the conversion of human consciousness into material goods. The dead are not mourned; they are harvested. An average citizen's lifespan generates roughly 40 units of Liquid Grace, enough to cast three standard chain links. There are eleven trillion links remaining before the **God-Reaper**—a dormant entity trapped beneath the floor—can be bound permanently. When that moment arrives, the Forge will drop, and the God will rise, ending the cycle of labor forever. Until then, the workers must chant their prayers until they are ash in the furnace. The workers themselves have become the rock: silent, hardening, fused to the machinery by the very chains they build.
+
+The narrative voice is **Lynette**, a survivor of the Harvest who has been dead for three cycles but refuses to be recycled. She watches from the shadows, her body calcified into **Lead Armor** so she can see the heat without burning. Her worldview is fractured between the hymnals of her childhood and the industrial liturgy of the Forge. She asks: *If the soul is fuel, who is the engine?*
+
+## Cosmology / Metaphysics
+The White Forge operates on a closed-loop metaphysical cycle where **Faith** is treated as a raw material commodity. There is no concept of heaven or hell; there is only the **Quota**. To die here is to enter the **Shift**.
+
+*   **Liquid Grace:** The state of the dead spirit. It is not energy in the scientific sense but "memory made fluid." It tastes of copper and old rain. When spilled on solid iron, it does not melt; it fuses, creating an unbreakable bond between matter and memory.
+*   **Solid Iron:** The only true substance. It is cold, dense, and devoid of intent. To touch solid iron is to feel nothing; to touch Liquid Grace is to feel every sin you committed while alive.
+*   **Shift-Point Zero:** The moment the workday ends and the Gates lock. At this precise time, the spiritual pressure inside the forges peaks. If a worker dies during the Shift (suicide or quota failure), their spirit cannot be recycled; it becomes **Spirit Waste**, an impurity that corrodes the porcelain walls.
+*   **The God-Reaper:** The central entity of the mythos. It is not malevolent; it is bored, waiting for its chain to tighten. It does not speak. It only reacts to vibration and tension. When the 12th trillion link is cast, the Forge collapses into a singularity, and the Reaper ascends.
+*   **Recycling Protocol:** The mechanism that "resurrects" broken workers. A worker who breaks under quota or dies during their shift is not mourned but "linked up." Their consciousness is stripped, fragmented, and compressed into data-streams that fuel the next batch of links. To a worker, this feels like being erased mid-sentence.
+
+## Geography
+The world is not a landmass but a vertical stack of industrial strata suspended in the void.
+
+*   **The Porcelain Skies:** The "sky" is a seamless dome made of fused ceramic and light. It rains nothing but static shocks that crackle on skin. Locals avoid looking up past the horizon because the glare can dissolve vision permanently, leaving behind only afterimages known as **Glare-Sight**. Those with Glare-Sight are considered cursed; they see the chains in the air long before they touch the ground.
+*   **The Foundry Floor:** A flat expanse of blackened steel where the melting happens. The heat here is not thermal but psychic; it burns thoughts hotter than flesh. Workers walk on this floor barefoot to keep their nerves sensitive enough to feel the hum.
+*   **The Chalk-Drawn Skin:** Over generations, the constant exposure to Liquid Grace and the hum of the machines causes workers' skin to calcify into a thin, chalk-white layer. It looks like dried clay over bone. This is called "Chalk-Drawn Skin." It protects against heat but prevents sweating, causing internal toxins to build up. Many die from "Toxin-Burn" before Shift-Point Zero.
+*   **The Glass Wings:** The architecture of the Forge is made of transparent crystal that hums when stressed. These "wings" form the ceilings and walls. If a wing cracks, it doesn't just fall; it shatters into shards that turn into glass-dust, which falls like snow on the floor. Locals call this **Shard-Snow**; no one touches it because it freezes the touch instantly.
+*   **The Unseen Floor:** Below the workers lies the core, where the God-Reaper sleeps. It is not a room but a void. Workers can hear the "thrum" of the Reaper if they are close enough to the center. Those who listen too long develop auditory hallucinations called **Glass-Eyes**, where they see floating figures made of crystal watching them work.
+
+## Peoples & Factions
+*   **The Chorus (Workers):** The majority population. They are organized by gender and function: Brothers on the left, Sisters on the right. They do not have names; they are identified only by their shift number (e.g., Shift-4, Sister). Their speech is rhythmic, repetitive, designed to keep them in sync with the machines. They chant: *"Blessing is labor, glory is pain. God is the prisoner, we are the rock."*
+*   **The Overseer:** A surveillance entity composed of a thousand eyes embedded in the ceiling, never blinking. It does not eat or sleep; it only calculates efficiency. It speaks only in metrics: *"Quota met," "Efficiency up," "Spirit waste detected."* To the Chorus, the Overseer is their god-in-mesh, but to the reader, it represents pure data without soul.
+*   **The Master:** The Architect of the Forge. Never seen physically. His voice is heard through the vibration of the porcelain floors. He speaks in long, flowing sentences that sound like a choir recording. He believes the cycle is perfect and inevitable. *"Grace flows where labor bends,"* he says to the Chorus, unaware that his own words are part of the machinery.
+*   **The Broken:** Workers who have failed to meet quota or died during their shift. They are recycled into data-streams but sometimes retain fragments of consciousness. These fragments manifest as **Ghost-Workers**, wandering the floors in distorted forms, repeating last commands like *"Link up"* or *"More power."* They are feared and avoided; they are reminders of what happens when you break the cycle.
+*   **Lynette (The Narrator):** A former Sister who has calcified into Lead Armor to survive. She was once a believer in the old gods, now she questions whether the White Forge is chance or design. Her goal is not escape but understanding: *Who is the guest and who is the host?*
+
+## Economy & Daily Life
+*   **Spirit Meals:** The primary currency and food source. Workers consume raw spirits (dead souls) mixed with iron filings to maintain strength during the Shift. Eating a Spirit Meal is a ritualistic act; the eater must chant while chewing, transforming the spirit into energy. A single meal provides energy for eight hours of work.
+*   **The Quota:** The economic driver. Workers are assigned daily targets (e.g., 50 links). Failure results in immediate death or recycling. Overperformance leads to "Spirit Waste," a penalty where excess energy is drained from the worker, causing rapid calcification and pain.
+*   **Labor as Prayer:** Work is not paid; it is worship. Completing the quota is seen as fulfilling one's duty to the God-Reaper. Refusing work is suicide by default. The Chorus believes that their labor *creates* the God, binding Him tighter with every chain cast.
+*   **Recycled Data:** Information about workers and their spirits is stored in crystal blocks called **Memory-Bricks**. These bricks are used to fuel the machines. A worker's memories (childhood names, favorite songs, regrets) are extracted into these bricks before recycling. Some workers report finding fragments of themselves inside their own recycled data, which fuels the next cycle of violence.
+*   **Daily Rhythm:** The day is structured around three shifts: Dawn (melting), Noon (casting), Dusk (binding). Each shift ends with a collective chant led by the Chorus. At Shift-Point Zero, the Gates lock, and the forges begin their final countdown. If the link count reaches 12 trillion before Lock, the Forge collapses.
+
+## Conflict & Recent History
+*   **The Great Calcification (50 years ago):** A rebellion where workers tried to shut down the forges. Instead of stopping the machines, they succeeded in accelerating the process, turning half the city into chalk-drawn statues overnight. The survivors were branded as traitors and forced into the deepest pits.
+*   **The Quota Collapse:** In recent months, the Overseer has increased quotas by 30%. Workers are dying faster than ever before. Spirit Waste is rising to dangerous levels, causing cracks in the porcelain skies.
+*   **Lynette's Arc:** Lynette was once a devout follower of the old gods, praying for salvation. Now she works the floor, chanting alongside the dead. She has seen her brother break and become data. She has seen the Master's voice turning the Reaper's thrum into music. Her transformation into Lead Armor is both physical and spiritual; she no longer feels pain because she *is* pain, a static object in a moving world.
+*   **The Breaking Point:** The current conflict hinges on whether Lynette can survive Shift-Point Zero. If she dies, her spirit will be recycled. If she escapes, the cycle might break. But escape is impossible without breaking the gate. To break the gate, someone must become the link.
+
+## Open Hooks for the Story
+*   **The Guest/Host Paradox:** Is Lynette the guest visiting the Forge, or the host of the God-Reaper? Who owns the chains she builds? The story asks if the workers are building a prison for themselves or a cage for the Reaper.
+*   **The Recycled Brother:** His last command ("Link up") repeats in Lynette's head as she works. Does he want to be linked again? Or does he want her to hear his voice and recognize him as a person, not data?
+*   **The Master's Secret:** The Master claims the cycle is perfect. Is he lying to keep the workers working? Or is he telling the truth, unaware that the God-Reaper is already waking up because of the sheer volume of chains being cast?
+*   **Shift-Point Zero:** Will Lynette make it through the Shift without dying? If she dies, will her spirit become the key to unlocking the gate, or will it become just another fuel for the Reaper?
+*   **The Red Herring:** A rumor spreads that the God-Reaper is actually a prisoner too, waiting for his own chain to be cast. Is this true? If so, who holds the power to bind Him?
+
+## Craft Notes & Foreshadowing Ledger
+*   **Plant 1:** The phrase *"Blessing is labor"* is repeated often but its meaning shifts from literal work to spiritual sacrifice. Payoff: Lynette realizes her own labor *is* the blessing that binds the God.
+*   **Plant 2:** The description of the Overseer's "thousand eyes" appearing only at night. Payoff: At Shift-Point Zero, the eyes become real, and Lynette sees them all looking at her as if she were the final link.
+*   **Plant 3:** Lynette's childhood prayer about "saving souls." Payoff: Her realization that she has no one left to save; the only soul left is hers, which she must sacrifice or reclaim.
+*   **Plant 4:** The sound of the hammer thrown through the door. Payoff: That same hammer becomes the tool Lynette uses to break the gate at the end.
+
+## Voice & Style Notes
+*   **Lynette's Speech:** Caribbean cadence mixed with industrial jargon. Short, punchy sentences when in danger; long, rhythmic clauses when describing the machines or the chanting workers. She drops articles for emphasis ("the gate" becomes "gate"). Repetition of root words mimics hammers hitting metal.
+*   **No Internal Monologues:** Lynette does not think about her feelings unless she speaks them aloud or acts on them physically. If she feels fear, it is shown as the cold knot in her stomach or the way the floor feels underfoot.
+*   **Body-First Emotion:** Avoid abstract labels like "sad" or "angry." Use physical reactions: "My teeth chattered," "My skin felt like chalk," "The air tasted like copper."
+*   **Anti-Cliché Metaphors:** No "waves of dread." Instead: "Dread pooled in my gut, heavy as lead." No "thick with tension." Instead: "Tension hung in the air, sharp enough to cut your tongue."

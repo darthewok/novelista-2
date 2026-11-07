@@ -1,0 +1,84 @@
+{
+  "findings": [
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "## Chapter 2: Blue Light Bleeding into Corneas",
+      "line": 1,
+      "message": "Phrase 'blue light bleeding into' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Inside the Core Chamber, the air tasted of burnt plastic and overheating copper wires, thick enough to choke on.",
+      "line": 3,
+      "message": "Phrase 'of burnt plastic and' also appears in an earlier chapter"
+    },
+    {
+      "rule": "negation_contrast",
+      "severity": "warning",
+      "quote": "He wasn't supposed to be here. He was supposed to be dead or dying outside in Sector Seven, rotting while Kael collected the zeros from the Alpha Contract.",
+      "line": 5,
+      "message": "3 'He did not X. He Y.' openers (max 1)"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "He was supposed to be dead or dying outside in Sector Seven, rotting while Kael collected the zeros from the Alpha Contract.",
+      "line": 5,
+      "message": "Phrase 'outside in sector seven' also appears in an earlier chapter"
+    },
+    {
+      "rule": "triads",
+      "severity": "warning",
+      "quote": "It was data streams, hot and electric, flowing fas | Outside, the wind picked up, swirling dust and deb | He knew what waited on the other side: scavengers,",
+      "line": 7,
+      "message": "4 triadic lists (max 3)"
+    },
+    {
+      "rule": "tier2",
+      "severity": "warning",
+      "quote": "optimize.",
+      "line": 11,
+      "message": "Restricted word 'optimize' used 2 times (max 1 per chapter)"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Kael took a step forward, boots clicking on the grating floor.",
+      "line": 13,
+      "message": "Phrase 'forward boots clicking on' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Kael took a step forward, boots clicking on the grating floor.",
+      "line": 13,
+      "message": "Phrase 'boots clicking on the' also appears in an earlier chapter"
+    },
+    {
+      "rule": "tier1",
+      "severity": "error",
+      "quote": "\"Rex,\" Kael whispered, feeling the weight of what he had to do next pressing down on him like a vice.",
+      "line": 51,
+      "message": "Banned word/phrase: 'the weight of what'"
+    }
+  ],
+  "error_count": 1,
+  "warning_count": 8,
+  "metrics": {
+    "word_count": 1498,
+    "sentence_count": 129,
+    "paragraph_count": 34,
+    "tier1_count": 1,
+    "tier2_repeats": 1,
+    "em_dash_per_150": 0.2,
+    "triad_count": 4,
+    "transition_opener_ratio": 0.008,
+    "sentence_len_cv": 0.653,
+    "paragraph_len_cv": 0.384,
+    "dialogue_lines": 5,
+    "adverb_tag_ratio": 0.4,
+    "tells_per_1000": 6.01
+  }
+}

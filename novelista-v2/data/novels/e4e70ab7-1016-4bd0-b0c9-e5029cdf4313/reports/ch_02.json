@@ -1,0 +1,127 @@
+{
+  "findings": [
+    {
+      "rule": "felt_density",
+      "severity": "warning",
+      "quote": "I felt the memory of every person who died in the Dawn shift before me slide off my skin, leaving only the cold shell beneath.",
+      "line": 5,
+      "message": "'felt' used 11 times, 7.18 per 1000 words (max 4)"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Sister-9's ghost flickered, her shape destabilizing into a trail of gray dust that fell like snow on the floor.",
+      "line": 15,
+      "message": "Phrase 'dust that fell like snow' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Sister-9's ghost flickered, her shape destabilizing into a trail of gray dust that fell like snow on the floor.",
+      "line": 15,
+      "message": "Phrase 'that fell like snow on' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Sister-9's ghost flickered, her shape destabilizing into a trail of gray dust that fell like snow on the floor.",
+      "line": 15,
+      "message": "Phrase 'fell like snow on the' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "\"Don't look up at the porcelain sky,\" she whispered again, her voice thin as paper tearing against wind. \"It rains static shocks that crackle on skin.",
+      "line": 17,
+      "message": "Phrase 'paper tearing against wind it' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "\"Don't look up at the porcelain sky,\" she whispered again, her voice thin as paper tearing against wind. \"It rains static shocks that crackle on skin.",
+      "line": 17,
+      "message": "Phrase 'tearing against wind it rains' also appears in an earlier chapter"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "paper tearing against wind. \"It rains static shocks that crackle on skin.\" I ignored her.",
+      "line": 17,
+      "message": "Copied text, repeated verbatim: 'paper tearing against wind. \"It rains static shocks that crackle on skin.\" I ignored her.'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "into the Binding phase. Their voices were a single thread pulled tight, a rhythmic drone t",
+      "line": 19,
+      "message": "Copied text, repeated verbatim: 'into the Binding phase. Their voices were a single thread pulled tight, a rhythmic drone t'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "I felt the vibration in my teeth again, a low hum that made my vision blur at the edges.",
+      "line": 19,
+      "message": "Copied text, repeated verbatim: 'I felt the vibration in my teeth again, a low hum that made my vision blur at the edges.'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "The Brothers on the left and Sisters on the right froze mid-chant. Their hammers hung susp",
+      "line": 23,
+      "message": "Copied text, repeated verbatim: 'The Brothers on the left and Sisters on the right froze mid-chant. Their hammers hung susp'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "it sounded like something sleeping, then waking up slowly. Like a giant breathing in the d",
+      "line": 23,
+      "message": "Copied text, repeated verbatim: 'it sounded like something sleeping, then waking up slowly. Like a giant breathing in the d'"
+    },
+    {
+      "rule": "tier1",
+      "severity": "error",
+      "quote": "The hammer felt heavier now, not because it was rusted, but because it carried the weight of every link Sister-9 had tried to cast before she shattered.",
+      "line": 35,
+      "message": "Banned word/phrase: 'the weight of every'"
+    },
+    {
+      "rule": "triads",
+      "severity": "warning",
+      "quote": "My skin felt like old paper, dry and brittle, crac | It tasted of copper and old rain again, thick and  | It tasted of copper and old rain again, thick and ",
+      "line": 35,
+      "message": "4 triadic lists (max 3)"
+    },
+    {
+      "rule": "exemplar_copy",
+      "severity": "error",
+      "quote": "sharp enough to cut your tongue when you swallowed it. \"Recycle data stream active.\" I lo",
+      "line": 41,
+      "message": "Copied from the voice exemplar: 'sharp enough to cut your tongue when you swallowed it. \"Recycle data stream active.\" I lo'"
+    },
+    {
+      "rule": "exemplar_copy",
+      "severity": "error",
+      "quote": "sharp enough to cut your tongue when you swallowed it. \"Recycle data stream active.\" I lo",
+      "line": 41,
+      "message": "Copied from the voice exemplar: 'sharp enough to cut your tongue when you swallowed it. \"Recycle data stream active.\" I lo'"
+    }
+  ],
+  "error_count": 8,
+  "warning_count": 7,
+  "metrics": {
+    "word_count": 1531,
+    "sentence_count": 109,
+    "paragraph_count": 30,
+    "tier1_count": 1,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.0,
+    "triad_count": 4,
+    "transition_opener_ratio": 0.0,
+    "sentence_len_cv": 0.496,
+    "paragraph_len_cv": 0.438,
+    "dialogue_lines": 4,
+    "adverb_tag_ratio": 0.25,
+    "felt_per_1000": 7.18,
+    "tells_per_1000": 9.8
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "findings": [
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The rain fell harder than it had in three days, turning the acid-laced puddles into mirrors that reflected nothing but the glitching static of the Grid.",
+      "line": 3,
+      "message": "Phrase 'the rain fell harder' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "Kael stood at the edge of the Spire's perimeter, the blue light from his retinal implant burning holes through the smog layer like a fresh burn mark on skin.",
+      "line": 3,
+      "message": "Phrase 'of the spire s' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "He checked his Soul Ledger again.",
+      "line": 5,
+      "message": "Phrase 'he checked his soul' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "He checked his Soul Ledger again.",
+      "line": 5,
+      "message": "Phrase 'checked his soul ledger' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "He checked his Soul Ledger again.",
+      "line": 5,
+      "message": "Phrase 'his soul ledger again' also appears in an earlier chapter"
+    },
+    {
+      "rule": "triads",
+      "severity": "warning",
+      "quote": "It was gravel, rough and jagged, sounding like thr | Rex's body sat slumped against the vending machine | He could feel the walls breathing, expanding and c",
+      "line": 9,
+      "message": "5 triadic lists (max 3)"
+    },
+    {
+      "rule": "tier1",
+      "severity": "error",
+      "quote": "He cares about leverage.",
+      "line": 49,
+      "message": "Banned word/phrase: 'leverage'"
+    },
+    {
+      "rule": "tier1",
+      "severity": "error",
+      "quote": "He felt the weight of the debt pressing down on him, heavier than his cyber-arm or the rain outside.",
+      "line": 71,
+      "message": "Banned word/phrase: 'the weight of the'"
+    }
+  ],
+  "error_count": 2,
+  "warning_count": 6,
+  "metrics": {
+    "word_count": 2631,
+    "sentence_count": 235,
+    "paragraph_count": 57,
+    "tier1_count": 2,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.114,
+    "triad_count": 5,
+    "transition_opener_ratio": 0.013,
+    "sentence_len_cv": 0.642,
+    "paragraph_len_cv": 0.489,
+    "dialogue_lines": 25,
+    "adverb_tag_ratio": 0.32,
+    "tells_per_1000": 3.04
+  }
+}

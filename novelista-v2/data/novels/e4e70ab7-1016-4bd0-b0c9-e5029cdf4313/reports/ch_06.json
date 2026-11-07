@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The hammer hit the door with a sound like a dead throat clearing.",
+      "line": 3,
+      "message": "Phrase 'sound like a dead throat' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The hammer hit the door with a sound like a dead throat clearing.",
+      "line": 3,
+      "message": "Phrase 'like a dead throat clearing' also appears in an earlier chapter"
+    },
+    {
+      "rule": "felt_density",
+      "severity": "warning",
+      "quote": "I felt the cold travel up my arm.",
+      "line": 7,
+      "message": "'felt' used 9 times, 5.78 per 1000 words (max 4)"
+    },
+    {
+      "rule": "triads",
+      "severity": "warning",
+      "quote": "A crack ran through the dome, silent and terrible. | It landed on the floor with a soft thud, rusted an | Their gaze followed me, fixed and steady, devoid o",
+      "line": 15,
+      "message": "5 triadic lists (max 3)"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "It didn't strike anything solid anymore.",
+      "line": 15,
+      "message": "Phrase 'didn t strike anything solid' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The impact created a ripple that traveled outward, distorting the dust motes floating near the ceiling like ripples on a pond.",
+      "line": 15,
+      "message": "Phrase 'the dust motes floating near' also appears in an earlier chapter"
+    },
+    {
+      "rule": "repeated_phrase",
+      "severity": "warning",
+      "quote": "The impact created a ripple that traveled outward, distorting the dust motes floating near the ceiling like ripples on a pond.",
+      "line": 15,
+      "message": "Phrase 'dust motes floating near the' also appears in an earlier chapter"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "The light above pulsed brighter, warning signal that no one understood yet flaring into wh",
+      "line": 17,
+      "message": "Copied text, repeated verbatim: 'The light above pulsed brighter, warning signal that no one understood yet flaring into wh'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "The Overseer's voice was gone. Silence filled the room, heavy as lead armor. But it wasn't",
+      "line": 21,
+      "message": "Copied text, repeated verbatim: 'The Overseer's voice was gone. Silence filled the room, heavy as lead armor. But it wasn't'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "vibration beneath the floor had become a rhythm, a countdown I could feel in my bones. Ele",
+      "line": 21,
+      "message": "Copied text, repeated verbatim: 'vibration beneath the floor had become a rhythm, a countdown I could feel in my bones. Ele'"
+    },
+    {
+      "rule": "copied_text",
+      "severity": "error",
+      "quote": "This time it didn't strike anything solid. It struck the air, creating a ripple that distu",
+      "line": 23,
+      "message": "Copied text, repeated verbatim: 'This time it didn't strike anything solid. It struck the air, creating a ripple that distu'"
+    },
+    {
+      "rule": "telling",
+      "severity": "warning",
+      "quote": "I felt a surge of something inside me.",
+      "line": 67,
+      "message": "Telling pattern: 'felt a surge of'"
+    }
+  ],
+  "error_count": 4,
+  "warning_count": 8,
+  "metrics": {
+    "word_count": 1557,
+    "sentence_count": 206,
+    "paragraph_count": 45,
+    "tier1_count": 0,
+    "tier2_repeats": 0,
+    "em_dash_per_150": 0.0,
+    "triad_count": 5,
+    "transition_opener_ratio": 0.034,
+    "sentence_len_cv": 0.727,
+    "paragraph_len_cv": 0.508,
+    "dialogue_lines": 9,
+    "adverb_tag_ratio": 0.0,
+    "felt_per_1000": 5.78,
+    "tells_per_1000": 7.71
+  }
+}

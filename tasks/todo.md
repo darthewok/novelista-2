@@ -73,5 +73,41 @@ Do NOT port: numeric 1–10 LLM scoring, keep/discard thresholds, reader panel, 
 ## Suggested order
 Phase 1 must-fix (one PR, about half a day) → Phase 2 items 1, 2, 4, 5 (prompt/text-heavy, one PR) → Phase 3 items 1–3 → rest.
 
+## Build log (v2, per tasks/spec-nosql-byok.md)
+
+Build folder: `novelista-v2/` (copied from `novelista/` on 2026-11-07, no venv/node_modules/.next). Versioning by folder, not git: `novelista/` is v1 and stays untouched.
+
+- [x] T1 store/settings/enums (Opus)
+- [x] T2 llm_client providers (Opus) + OpenAI max_completion_tokens special case
+- [x] T3 jobs/events in-memory (Sonnet) — also fixed cancel-before-start bug
+- [x] T7 migrate_sqlite.py (Haiku) — tested against the real v1 DB, 3 books
+- [x] T12 anti_slop.md / craft.md merge (Haiku)
+- [x] T4+T6 routers on store, uploads hardening (Sonnet)
+- [x] T5 chapters.py versioning + polish wiring (Opus)
+- [x] T8 legacy tests ported (Sonnet)
+- [x] T9–T11 draft/revise context, summary/canon/voice gens, slop_score (Sonnet)
+- [x] T13 editor_pass + adversarial_cut (Opus)
+- [x] T14+T17 Vite SPA + settings page, T15 static mount, T16 launchers
+- [x] T18–T21 chapter page features, a11y
+- [x] T22 end-to-end run against a fake LM Studio server (see novelista-v2/QUALITY.md)
+- [x] QoL: provider switch saves + retests; task models prefilled from detected models (persisted), datalist dropdown per field, 'Set all tasks to' picker when several are detected
+
+## Live test on Ollama qwen3.5:4b (2026-11-07)
+- [x] Chrome Trigger: full UI flow (new book → voice trials → world → characters → canon → outline → draft all → polish → export). 12.5k words. Findings → pipeline v2.1 (17 items) + v2.2 (loop guard, penalties, motif allow-list, dedupe).
+- [x] The White Forge: same flow on v2.1. 11.4k words. 8.3 → 6.2 tells/1000; errors 54 → 34; ch 5 redraft on v2.2: 0 errors.
+- [x] UI bugs found as a user: no uploads UI (added), "Use trial" buttons before trials exist (fixed), launcher PID empty (fixed), `cmd /c start.bat` quirk (double-click unaffected).
+- [ ] Known limits on a 4B model: continuity (alive/dead, objects), refrains, exemplar re-anchoring late in the book, chapters under target. A 30B+ local model or a cloud key is the real fix; see novelista-v2/QUALITY.md.
+
+## Review (v2 build, 2026-11-07)
+
+Result: `novelista-v2/` runs as one process from `start.bat` / `start.command`, no SQL, no CORS, no external resources. Backend: 139 tests green. Frontend: tsc strict + vite build + no-external-URL check green.
+
+End-to-end on a fake provider: create book → outline generate (streamed, chapters synced) → draft ch 1 (streamed; summary.md, canon.md, report written; tells panel shows the two planted Tier 1 phrases with line numbers) → redraft (confirm shown, v0/v1 snapshots, version bumped) → polish (editor fallback brief on non-JSON, revise, rescan, status correctly not promoted) → voice trials → export zip.
+
+Bugs found and fixed during the run: editor text never synced from the server (functional state updater ran after the ref was overwritten); Tells panel crashed on an unscanned chapter (empty metrics object).
+
+Not verified: macOS launchers (syntax-checked only); a real provider run with a live key; PyInstaller single-file build (v2.1); manuscript-level editor letter (v2.1).
+
+
 ## Review
 (filled in after implementation)

@@ -1,0 +1,29 @@
+1. **The Halo’s Hum**
+   A superstitious Anglo-Saxon plowman unearths a ring of cold, dead light that doesn’t glow but *hums* at a frequency that makes blood boil in the ears. He tries to bury it, but the object pulls iron nails from his tools and screams when it touches holy water. **Hook:** The soil didn’t crunch; it hissed. The thing in the furrow wasn’t gold or silver, but a perfect, jagged circle of void that drank the afternoon sun.
+
+2. **Feather Weight**
+   When the farmer picks up the fallen angel’s halo, his left arm becomes impossibly heavy, dragging his shoulder toward the earth while his right arm grows light as air, twitching with violent, untrained strength. He is no longer a man of the land, but a weapon caught between gravity and grace, hunted by a local priest who smells the ozone of the divine on his skin. **Hook:** His hoe flew out of his grip, spinning upward like a thrown knife. He stood frozen, his left hand pinned to the mud by an invisible fist, while his right hand floated toward the sky, fingers curling into a claw.
+
+3. **The Saint’s Debt**
+   The halo is a ledger, not a jewel. Every time the farmer wears it, he pays for a miracle—milk yields for his starving child, a wolf’s retreat, a winter storm’s delay—but the debt is collected from someone else’s life force in the village. He becomes a reluctant god, balancing his family’s survival against the slow, silent fading of his neighbors. **Hook:** The air around the circle tasted of copper and old incense. It didn’t shine; it pulsed, a slow, rhythmic throb that synced with the heartbeat of the sheep three fields over.
+
+4. **Grave Robber’s Gold**
+   The halo is actually a key to a subterranean city of pre-Christian entities beneath the village. The farmer’s digging has opened the door, and now the things that live in the dark are waking up, whispering in a language that sounds like grinding tectonic plates. He must decide whether to seal the breach with his own blood or let the old gods rise and burn the church down. **Hook:** The dirt around the object wasn’t dirt; it was ash. Fine, grey ash that swirled in a draft there was no wind to cause, forming the shape of a screaming mouth.
+
+5. **The Angel’s Curse**
+   The halo doesn’t give power; it imposes the angel’s memory. The farmer is bombarded with the visceral, terrifying memories of a celestial being’s fall—fire, betrayal, the sheer weight of falling from heaven to earth. He starts hallucinating wings of burning glass and speaking in tongues that curdle milk. The village sees a demon; he feels like a survivor. **Hook:** It hit him like a physical blow, a flash of white-hot pain behind his eyes. He dropped the plow, clutching his head as the sky above him cracked open, revealing not blue, but a bleeding, red wound.
+
+6. **Iron and Faith**
+   The halo repels all metal within ten feet. Swords rust instantly, armor crumbles to dust, and any weapon brought against the farmer disintegrates in his hands. But it also repels *him* from the church, the priest, and any consecrated ground. He becomes an outcast, a walking contradiction who can’t be killed by steel but can’t enter a house of God. **Hook:** The knight’s sword tip flared red, then grey, then vanished into a pile of harmless orange dust. The knight stared at his empty, smoking gauntlet, while the farmer kicked the glowing ring deeper into the furrow.
+
+7. **The Silence**
+   The halo creates a zone of absolute silence where no sound can exist. Inside it, screams are silent, explosions are mute, and prayers go unheard. The farmer uses this "quiet" to hide from warbands, but the silence begins to leak out, spreading across the valley, erasing the sounds of life—birdsong, children’s laughter, the heartbeat of his wife. **Hook:** The bird fell from the tree, mid-chirp. Its beak was open, its throat working, but no sound came out. The world had been muted, like a hand slapped over a speaker cone.
+
+8. **The Mirror of Truth**
+   The halo acts as a mirror that shows everyone’s true nature, stripping away social pretense. To the noble knight, the farmer sees a coward; to the pious priest, a soulless hypocrite. The object’s power is to destroy social order by forcing everyone to see the ugliness they hide. The village descends into chaotic violence as secrets are exposed by mere proximity to the halo. **Hook:** He looked into the ring and saw not his own face, but the knight’s, twisted into a mask of pure, unadulterated fear. The reflection wasn’t lying. It never did.
+
+9. **The Weight of Heaven**
+   The halo is unimaginably dense, a singularity of divine mass. It doesn’t glow; it bends light and gravity around it. The farmer’s field becomes a localized event horizon. Crops grow in impossible, twisted shapes; animals go mad trying to orbit it. He is the warden of a pocket universe, and something is trying to crawl out of it. **Hook:** The grass around the object grew inward, twisting into spirals that defied logic. A beetle crawled toward the ring, then vanished, not swallowed, but *folded* out of existence.
+
+10. **The Last Prayer**
+    The halo is a receiver, not a transmitter. It picks up the final prayers of dying angels from across time and space. The farmer is haunted by the voices of fallen beings, begging for release or revenge. He becomes a medium for their unresolved trauma, and the entity they are praying *to* is listening, and it’s coming for him. **Hook:** The wind picked up, carrying not the smell of rain, but the scent of burning feathers. And then, a voice, thin and desperate, whispered directly into his left ear: *“He is here.”*
