@@ -43,8 +43,10 @@ Keys are stored in plain text in `data/settings.json`. Keep that folder private.
 
 ## Migrating from v1
 
+If you have a v1 install (SQLite + Next.js), point the script at its database and novels folder:
+
 ```
-python scripts/migrate_sqlite.py --db ../novelista/backend/data/novelista.db --src ../novelista/backend/data/novels --dest data/novels
+python scripts/migrate_sqlite.py --db <v1>/backend/data/novelista.db --src <v1>/backend/data/novels --dest data/novels
 ```
 
 ## Developing

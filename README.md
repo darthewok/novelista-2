@@ -1,8 +1,8 @@
-# Autonovel / Novelista
+# Novelista 2
 
 An AI novel-writing assistant that runs on your own machine with your own model. You bring a key (Anthropic, OpenAI, OpenRouter) or a local server (LM Studio, Ollama); the app takes a story idea through seed, voice, world, characters, canon, outline and chapters, and puts every draft through guardrails built to catch the ways AI prose gives itself away.
 
-The current app is **`novelista-v2/`**. `novelista/` is the earlier version kept for reference, and `autonovel-master/` is the command-line research pipeline the quality techniques were ported from.
+The app lives in **`novelista-v2/`**. Its quality techniques were ported from an earlier command-line research pipeline (autonovel); the craft and anti-slop material from it is merged into `novelista-v2/backend/app/pipeline/prompts/`.
 
 ```
 novelista-v2/start.bat        Windows: double-click, browser opens on http://127.0.0.1:8000
@@ -92,8 +92,6 @@ Practical guidance: a 4B model is enough to exercise the app; a 30B-class local 
 
 ```
 novelista-v2/        the app (backend/, frontend/, start/stop launchers, QUALITY.md, README.md)
-novelista/           v1, for reference (Next.js + SQLite)
-autonovel-master/    the original CLI research pipeline and its craft documents
 tasks/               the review that started this, the spec, the build log, lessons learned
 ```
 
